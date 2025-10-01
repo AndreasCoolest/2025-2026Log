@@ -65,3 +65,9 @@ Nikka wants to use two controllers for the robot at the competition.
 - eli workedon the arm
 - joshua did spinning work and unjamming the robot
 
+## 9/29/25
+- Arushi and Andreas brainstormed about ways to fix the robot
+- Nikka and Eli worked on their relationship
+- Henry and Nick followed the main instructions building a wheel gear turn thingie
+- work is getting done unlike in the congress
+
